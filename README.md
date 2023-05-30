@@ -1,5 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif)
-<h1 align="center">Hi 👋, I'm Kevin Pajaniandy</h1>
+<h1 align="center">Hi 👋, I'm Kevin, a new front-end student on a quest for perfect pixels and magical lines of code! 🚀💻
+
+Passionate about front-end languages, I'm constantly inspired by innovative designs and captivating animations. My goal is to master these languages with ease to create amazing user experiences.
+
+I'm open to collaborations and creative challenges. Join me on this code-tastic adventure as we explore the wonders of front-end development together! 🌈🎨💡
+
+#AspiringFrontEndCoder #PixelLover #SmileInducingInterfaces</h1>
 <h3 align="center">A passionate student frontend developer from Paris</h3>
 <img align="right" alt="Coding" width="400" src= https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
