@@ -1,5 +1,8 @@
+![MasterHead](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif)
 <h1 align="center">Hi 👋, I'm Kevin Pajaniandy</h1>
 <h3 align="center">A passionate student frontend developer from Paris</h3>
+<img align="right" alt="Coding" width="400" src= https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinpajaniandy&label=Profile%20views&color=0e75b6&style=flat" alt="kevinpajaniandy" /> </p>
 
