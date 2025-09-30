@@ -38,7 +38,7 @@ Let’s shape the web together! 🎨💡
 
 ## 🌱 Currently Learning
 
-HTML • CSS • SCSS • JavaScript • TypeScript • SQL
+HTML • CSS • SCSS • JavaScript • React • NodeJs • TypeScript • SQL • Git • N8N
 
 ---
 
